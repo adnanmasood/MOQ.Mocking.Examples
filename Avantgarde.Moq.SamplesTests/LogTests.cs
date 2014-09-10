@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 
-namespace Avantgarde.Moq.Samples.Tests
+namespace Avantgarde.Moq.Examples.Tests
 {
     [TestClass]
     public class LogTests

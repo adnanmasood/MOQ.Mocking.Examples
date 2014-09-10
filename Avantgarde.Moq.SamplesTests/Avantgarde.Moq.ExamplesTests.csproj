@@ -58,9 +58,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Avantgarde.Moq.Samples.csproj">
+    <ProjectReference Include="..\Avantgarde.Moq.Examples.csproj">
       <Project>{B1CF2F34-0282-44DD-8EF8-B7DFA568F638}</Project>
-      <Name>Avantgarde.Moq.Samples</Name>
+      <Name>Avantgarde.Moq.Examples</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

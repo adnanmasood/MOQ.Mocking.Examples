@@ -1,4 +1,4 @@
-﻿namespace Avantgarde.Moq.Samples
+﻿namespace Avantgarde.Moq.Examples
 {
     internal class Program
     {

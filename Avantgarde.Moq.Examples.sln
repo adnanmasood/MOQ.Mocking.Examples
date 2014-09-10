@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avantgarde.Moq.Samples", "Avantgarde.Moq.Samples.csproj", "{B1CF2F34-0282-44DD-8EF8-B7DFA568F638}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avantgarde.Moq.Examples", "Avantgarde.Moq.Examples.csproj", "{B1CF2F34-0282-44DD-8EF8-B7DFA568F638}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avantgarde.Moq.SamplesTests", "Avantgarde.Moq.SamplesTests\Avantgarde.Moq.SamplesTests.csproj", "{5217928D-E589-4ED8-8FA5-C9AEC7F4A710}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avantgarde.Moq.ExamplesTests", "Avantgarde.Moq.SamplesTests\Avantgarde.Moq.ExamplesTests.csproj", "{5217928D-E589-4ED8-8FA5-C9AEC7F4A710}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avantgarde.Moq.Store", "StoreSample\Source\Avantgarde.Moq.Store.csproj", "{BDF061BD-AD85-4BE6-9661-C24504896633}"
 EndProject

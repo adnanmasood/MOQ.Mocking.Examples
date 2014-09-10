@@ -1,7 +1,8 @@
 ﻿using System;
 using Moq;
 
-namespace Avantgarde.Moq.Samples
+//A preliminary example based on http://blog.adnanmasood.com/2010/05/02/mock-objects-101/
+namespace Avantgarde.Moq.Examples
 {
     public interface IMathClass
     {

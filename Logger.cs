@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Avantgarde.Moq.Samples
+namespace Avantgarde.Moq.Examples
 {
     //internal class Logger
     //{
