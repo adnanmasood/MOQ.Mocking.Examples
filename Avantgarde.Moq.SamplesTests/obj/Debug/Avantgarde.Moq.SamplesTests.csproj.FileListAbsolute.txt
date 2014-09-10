@@ -1,0 +1,9 @@
+c:\dev\Avantgarde.Moq.Samples\Avantgarde.Moq.SamplesTests\obj\Debug\Avantgarde.Moq.SamplesTests.csprojResolveAssemblyReference.cache
+c:\dev\Avantgarde.Moq.Samples\Avantgarde.Moq.SamplesTests\bin\Debug\Avantgarde.Moq.SamplesTests.dll
+c:\dev\Avantgarde.Moq.Samples\Avantgarde.Moq.SamplesTests\bin\Debug\Avantgarde.Moq.SamplesTests.pdb
+c:\dev\Avantgarde.Moq.Samples\Avantgarde.Moq.SamplesTests\bin\Debug\Avantgarde.Moq.Samples.exe
+c:\dev\Avantgarde.Moq.Samples\Avantgarde.Moq.SamplesTests\bin\Debug\Moq.dll
+c:\dev\Avantgarde.Moq.Samples\Avantgarde.Moq.SamplesTests\bin\Debug\Avantgarde.Moq.Samples.pdb
+c:\dev\Avantgarde.Moq.Samples\Avantgarde.Moq.SamplesTests\bin\Debug\Moq.xml
+c:\dev\Avantgarde.Moq.Samples\Avantgarde.Moq.SamplesTests\obj\Debug\Avantgarde.Moq.SamplesTests.dll
+c:\dev\Avantgarde.Moq.Samples\Avantgarde.Moq.SamplesTests\obj\Debug\Avantgarde.Moq.SamplesTests.pdb

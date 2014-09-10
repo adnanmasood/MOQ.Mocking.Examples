@@ -1,0 +1,11 @@
+C:\dev\Avantgarde.Moq.Samples\StoreSample\UnitTests\bin\Debug\Store.Tests.dll
+C:\dev\Avantgarde.Moq.Samples\StoreSample\UnitTests\bin\Debug\Store.Tests.pdb
+C:\dev\Avantgarde.Moq.Samples\StoreSample\UnitTests\bin\Debug\Moq.dll
+C:\dev\Avantgarde.Moq.Samples\StoreSample\UnitTests\bin\Debug\nunit.framework.dll
+C:\dev\Avantgarde.Moq.Samples\StoreSample\UnitTests\bin\Debug\Store.dll
+C:\dev\Avantgarde.Moq.Samples\StoreSample\UnitTests\bin\Debug\Store.pdb
+C:\dev\Avantgarde.Moq.Samples\StoreSample\UnitTests\bin\Debug\Moq.xml
+C:\dev\Avantgarde.Moq.Samples\StoreSample\UnitTests\bin\Debug\nunit.framework.xml
+C:\dev\Avantgarde.Moq.Samples\StoreSample\UnitTests\obj\Debug\Avantgarde.Moq.Store.Tests.csprojResolveAssemblyReference.cache
+C:\dev\Avantgarde.Moq.Samples\StoreSample\UnitTests\obj\Debug\Store.Tests.dll
+C:\dev\Avantgarde.Moq.Samples\StoreSample\UnitTests\obj\Debug\Store.Tests.pdb

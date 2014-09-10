@@ -1,0 +1,7 @@
+C:\dev\Avantgarde.Moq.Samples\StoreSample\Source\bin\Debug\Store.dll
+C:\dev\Avantgarde.Moq.Samples\StoreSample\Source\bin\Debug\Store.pdb
+C:\dev\Avantgarde.Moq.Samples\StoreSample\Source\bin\Debug\Moq.dll
+C:\dev\Avantgarde.Moq.Samples\StoreSample\Source\bin\Debug\Moq.xml
+C:\dev\Avantgarde.Moq.Samples\StoreSample\Source\obj\Debug\Avantgarde.Moq.Store.csprojResolveAssemblyReference.cache
+C:\dev\Avantgarde.Moq.Samples\StoreSample\Source\obj\Debug\Store.dll
+C:\dev\Avantgarde.Moq.Samples\StoreSample\Source\obj\Debug\Store.pdb
